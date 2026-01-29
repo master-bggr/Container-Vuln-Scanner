@@ -39,3 +39,4 @@ apply_k8s_manifests
 # Hash 6475
 # Hash 8010
 # Hash 2404
+# Hash 7920
